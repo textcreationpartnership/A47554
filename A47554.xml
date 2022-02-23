@@ -1,0 +1,1487 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A knock at the door of Christless ones: or, Sixteen considerations for unchanged persons Poor Christless-soul! What wilt thou do? How canst to death, and judgment go? Quick, quick to Christ; do not thy self deceive: o when death comes, where wilt thy glory leave? Rest not, till Christ be form'd in thee: and thou thy self new-creature see. Transcribed for further use. T. H.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47554</idno>
+            <idno type="STC">Wing K700A</idno>
+            <idno type="STC">ESTC R217565</idno>
+            <idno type="EEBO-CITATION">99829226</idno>
+            <idno type="PROQUEST">99829226</idno>
+            <idno type="VID">33662</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47554)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33662)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1991:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A knock at the door of Christless ones: or, Sixteen considerations for unchanged persons Poor Christless-soul! What wilt thou do? How canst to death, and judgment go? Quick, quick to Christ; do not thy self deceive: o when death comes, where wilt thy glory leave? Rest not, till Christ be form'd in thee: and thou thy self new-creature see. Transcribed for further use. T. H.</title>
+                  <author>T. H.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for T. Passenger at the three Bibles on London-Bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: A knock at the door of Christless ones, &amp;c.</note>
+                  <note>Tightly bound with some loss of text.</note>
+                  <note>Reproduction of the original in the Magdalene College Library, Cambridge.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+               <term>Salvation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33662:1" rendition="simple:additions"/>
+            <p>A KNOCK AT THE DOOR OF CHRISTLESS ONES: OR, <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>xteen Conſiderations for <hi>
+                  <g ref="char:V">Ʋ</g>nchanged</hi> perſons.</p>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>fore if any man be in Chriſt, he is a New-Creature: Old <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ings are paſt away, behold all things are become New.</hi> 1Cor. 5. 17.</p>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> if any man have not the Spirit of Chriſt, he is none of his.</hi> Rom. 8. 9.</p>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oor Chriſtleſs-Soul! What wilt thou do?</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> canſt to Death, and Judgment Go?</l>
+               <l>Quick, quick to Chriſt;</l>
+               <l>Do not thy ſelf deceive:</l>
+               <l>O when Death comes,</l>
+               <l>Where wilt thy Glory leave?</l>
+               <l>if not, till Chriſt be form'd in thee:</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hou thy ſelf New-Creature See.</l>
+            </lg>
+            <p>
+               <hi>Tranſcribed for further uſe.</hi> T. H.</p>
+            <p>
+               <hi>LONDON,</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for <hi>T. Paſſenger</hi> at the three Bibles on <hi>London-Bridge.</hi> 1683.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:33662:2"/>
+            <pb n="3" facs="tcp:33662:2"/>
+            <head>TO READER AND HEARER, GRACE And Salvation through Chriſt Je<g ref="char:EOLhyphen"/>ſus.</head>
+            <p>IT may be needful to premiſe a few words, and I ſhall do it <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſpecting theſe and other Papers joyntly. Expect not Excellency of Speech, or human Wiſdom; I pretend not <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>reto: Nor would it befie them with whom I <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve to do. Yet tho it be without Rhetorick <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s not wholly without Reaſon; and how meanly <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ver it be worded, the matters ſpoken of are <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ghty; and the Souls concerned, Precious.</p>
+            <p>The Good of Souls, to Gods Glory; is my de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:punc">▪</g> and deſire. And tho I have many diſcou<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gements from ſelf-weakneſs, others cenſures, <hi>&amp;c.</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they may not be Arguments againſt Duty; <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 6. 6, 7. Iſa. 38. 18, 19. Eccl. 11. 6. Gal. 4. 19.</hi> 
+               <gap reason="illegible" resp="#APEX" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>tions have been eſpecially intended, I have
+<pb facs="tcp:33662:3"/> ſpoken, and how fain would I beſpeak Relatio<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (and others too) for Chriſt! Get them concer<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> about their Souls! and get Chriſt and them <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> mutual Embraces! but the ſaying is true, <hi>V<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> audita perit, ſed Litera ſcripta manet;</hi> w<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are loſt, Writing abides: Therefore I have <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and ſhall do what I may both ways. But they <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing many, and we diſtant, I cannot write wh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would to each; and ſo offer to caſt my poor <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> into the Publick Treaſury, that (if the Lord <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> many may have Benefit: And ſuch as (it may <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> cannot have choice-larger pieces. I have writt<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſhort deſignedly, that every one that will, may <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them, make Companions of them, and the ſu<gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> thereof be ſoon gotten by Heart. 'Tis diſhearte<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> too, to <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oil and catch little. Poor Souls ſhould <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> diſcourage thoſe that would ſpend and be ſpent <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their Good. But however<g ref="char:punc">▪</g> at the Lords <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> we muſt ſtill caſt out the Net. Through Grace, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> poor endeavours have not been altogether w<gap reason="illegible" resp="#APEX" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap> acceptance or ſucceſs; tho God alone be Glory: <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> would therefore leave what I may in his Hand <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be uſeful through his Bleſſing to his Glory, and S<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> good; when among the clods of the valley, I ſh<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſilent in Darkneſs, and neither ſpeak nor writ<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> My requeſt now is, to relations and others, to L<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>bour to be ſeriouſly and throughly concerned ab<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> their Souls and Salvation: And that they wou<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> carefully and conſcionably uſe theſe, and all <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> means and helps in order thereunto. Earneſtly <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb facs="tcp:33662:3" rendition="simple:additions"/> 
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Succeſs of him, who alone can teach to profit. <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not read or hear it as a new thing, and there's <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d with it; but be frequent, and follow it to a <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Iſſue: Turn to, and ponder the Scriptures, as <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Beſpangling Pearls and Jewels of all Writings, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Teſt of what is ſaid: the inſerting of which <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> too much inlarge my Papers. There are ſome <gap reason="illegible" resp="#APEX" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>rences to other Papers, theſe reſpect Relations <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have them or may have recourſe to them. Now, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Set thy Heart to it: Thy life is concerned, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>2, 46, 47.</p>
+            <p>And of others, that know what this great con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> means, and wiſh well to poor Souls, I beg, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſuch as may, will beſtow ſome of theſe poor Pa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, or ſomething of better uſe, upon poor Souls <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> mind not themſelves, and that overlooking the <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and weakneſſes of the performances, they <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> help forward the deſign by their Prayers: And <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> us, that I may be uſeful in my place and gene<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>. The Harveſt is great, there's enough for <gap reason="illegible" resp="#APEX" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> do.</p>
+            <p>The good Lord, help us all to do what we may <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e others: And to be each one careful, that <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e hath ſought to ſave others, he loſe not <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſelf. Duty is ours, Succeſs is Gods: For aſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>, and Succeſs, I commit theſe, and all my <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> endeavours unto him.</p>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>o would gladly be one (tho the meaneſt) <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to ſubſerve his Glory, and the Welfare <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Souls,</hi>
+            </p>
+            <closer>
+               <signed>T. H.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="6" facs="tcp:33662:4"/>
+            <head>A Knock at the Door of Chriſt<g ref="char:EOLhyphen"/>leſs ones, <hi>&amp;c.</hi>
+            </head>
+            <p>HOw many Diſtinctions ſoever may <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> made of Perſons, all come <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>der that made by the Apoſtle, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Cor.</hi> 13. 5. Chriſt is in them, or they <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) Reprobates. And if now <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Reprobate, whether not for ever ſo? <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lord knows. And 'tis a queſtion ſo W<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ty, as beſpeaks utmoſt endeavour of aſp<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>dy and happy Reſolution. My preſent b<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>neſs is with them in whom Chriſt is: Ye<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would not paſs the Chriſtleſs, as if th<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> were no ſuch in the World, ſeeing th<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> are the moſt by far; nor as if theſe we<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> not to be minded, who mind not themſelve<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Ah! My Heart is towards them, they <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> much longed for: And to ſee Chriſt as ſuch a one Embrace, would be a joyful ſigh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Give me leave to turn aſide to ſpeak a wo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to them, and to ask them how they <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Poor Hearts! how is it with you? in wha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> State are you? O that you would ſingly, ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>riouſly ask; what am I? whoſe am I? whe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="7" facs="tcp:33662:4" rendition="simple:additions"/> 
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> I? what am I doing? whither am I go<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g? what will my Eternity be? and O ſtay <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or an Anſwer! never leave purſuing the situation till an anſwer of peace is gotten. <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> had you not need of a ſpeedy anſwer too? O Death will be upon you! Eternity <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> haſtening? are you ready? are you will<g ref="char:EOLhyphen"/>ing to go? Some poor Chriſtleſs Creatures <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oo often ſay, they are ready, and willing too. But Alas! They know not what they ſay. What Chriſtleſs, and ready to <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>? that's impoſſible: Chriſtleſs, and will<g ref="char:EOLhyphen"/>ing to dye? that's Irrational. To ſuch I ſhall <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow add but this, O Labor to be ſenſible. <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. What it is to be Chriſtleſs, <hi>2C.</hi> 13 5. <hi>Ep.</hi> 2. 12. word<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. What it is to dye ſo, <hi>L.</hi> 16. 22, 23. <hi>Rev.</hi> 2015.</p>
+            <p>3. I refer them to the ſerious Conſidera<g ref="char:EOLhyphen"/>tion of what is elſewhere offered to ſuch as make light of dying. And to Mr. <hi>Alleines</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſeries of the unconverted.</p>
+            <p>But for other poor Carnal Worldly Chriſt<g ref="char:EOLhyphen"/>leſs Graceleſs ones, are they unwilling to d!ye? Ah! who can blame them? and O that their unwillingleſs did Spring from a due ſenſe of their unfitneſs! It is not a light thing, to part with their Worldly good things, their Creature Comforts, their Por<g ref="char:EOLhyphen"/>tion in this life; yea natural life it ſelf, for which a man will give all that he hath: And to make their Bed in darkneſs, and in the Pit
+<pb n="8" facs="tcp:33662:5"/> of Corruption; yea, to cry to Corruptio<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Father! and to the Worm, O Mother! <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Siſter! And for an immortal Soul to <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Wing for another World, and to Lanc<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Eternity, not knowing whither it is going <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or what will become of it<g ref="char:punc">▪</g> To cry, as <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that ſaid, I have lived in care, I dye in dou<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> but whither I am going, I cannot tell: <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as that other (Poor, tho Worldly gr<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> one) cryed, O my Poor, Litt<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Trembling, wandring Soul, whit<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> art thou going! into I know not wh<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <note place="margin">P. p. Adrian.</note> Rough, and horrid places? Thou <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> going where thou ſhalt never be Jovial, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> merry more. O my Soul, whither art th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> going! Or, to go to Reſolve his Queſti<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> who dying ſaid, He ſhould now be reſol<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ed, whether there were a God <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whether there a Hell? a<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <note place="margin">P. p. Paul. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> whether the Soul were immortal<g ref="char:punc">▪</g> Of which he had ever before doubted: And was like then to be reſolved to his coſt: <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſad Caſe! O Soul-Trembling adventures<g ref="char:punc">▪</g> But are they Unwilling from ſenſe o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> un<g ref="char:EOLhyphen"/>fitneſs? have they any ſenſe of the Majeſty of God? Of the Purity of his Nature? O<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Severity of his Juſtice? Of the odiouſ<g ref="char:EOLhyphen"/>neſs of Sin? And of the Fruit of the ſame<g ref="char:punc">▪</g> What 'tis to be Chriſtleſs? And Graceleſs? An alien from, a Stranger, an Enemy to
+<pb facs="tcp:33662:5" rendition="simple:additions"/> 
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and what it is to dye? And to fall <gap reason="illegible" resp="#APEX" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>diately into the Hands of the living <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>: In ſuch a condition? And do they <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from Death? are they loath to dye? <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> appear in Judgement? to venture into E<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ty? Who can blaim them? And, O <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>owing the Terrour of the Lord<g ref="char:punc">▪</g> who can <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> pitty them! And bemoan them!</p>
+            <p>Dear Souls! Is it thus with you in Rela<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> to a dying Hour? are the thoughts of <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Terrible to thee? The apprehenſion <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> approach ready to put thee into a <hi>
+                  <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>zzer</hi>'s Fit? <hi>Dan.</hi> 5. 6. O be perſwad<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to lay upon your Hearts, every one of <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a few things; tendered in Love and <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>erneſs to your Souls. And the good <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d uſe them in order to the Change of <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> State, and cure of your fears: That the <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Death may be more joyful, then <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they were doleful to you.</p>
+            <p>
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Conſider, and Labour to be deeply ſen<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, how ſad and woful a State, the State of <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is; both in reſpect of Sin and Miſe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:punc">▪</g> I cannot ſtay to open it here. Ponder <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 3. to 20. <hi>Tit.</hi> 1. 15. 16. <hi>Ephe.</hi> 2. 1, 2, 3. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Rom.</hi> 8. 5, 6, 7, 8. and 6. 20, 21. 23. <hi>E<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> 4. 17. 18, 19. and ſee, Soul Sickneſs: <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Mr. <hi>Alleines</hi> Alarm.</p>
+            <p>
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Conſider, that this dreadful S<gap reason="illegible" resp="#APEX" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>, is the <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of all <hi>Adams.</hi> Children, till they <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:33662:6"/> made new Creatures. It was the State <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſuch as now are Saints, till they were ch<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ed: And you being unchanged, it is your S<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ſtill. And therefore ſo look upon it, and <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> affected with it, <hi>Rom.</hi> 3. 9. 1 <hi>Cor.</hi> 6. 9. 10, 1<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Tit.</hi> 3. 3. 2. <hi>Cor.</hi> 13. 5. <hi>Joh.</hi> 3. 6. <hi>Rom</hi> 8. 9. <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+            </p>
+            <p>3. Conſider, that whoſoever is not a <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Creature, is not in Chriſt: Nor can lay cl<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> to any ſaving Benefit by him. 2 <hi>Cor.</hi> 5. 17. <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 13. 5. <hi>Rom.</hi> 8, 9, 10. <hi>Gal.</hi> 5. 24. <hi>Tit.</hi> 2. 11, 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 13, 14. <hi>Joh.</hi> 13. 8. <hi>Acts</hi> 3. 19.</p>
+            <p>4. Conſider, that whoſoever is not <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Chriſt, is in a State of Damnation. Un<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> wrath preſent, and bound over to wrath <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> come, <hi>Rom.</hi> 8. 1. <hi>Joh.</hi> 3. 36. <hi>Ephe.</hi> 2. 3. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Theſ.</hi> 1. 10. <hi>Rom.</hi> 2. 4, 5, 6. 8, 9. <hi>Acts</hi> 4. <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <p>5 Conſider, that without a ſaving Cha<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> there is no Salvation. Whoſoever is <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> changed, is not only in a State of Damnati<g ref="char:EOLhyphen"/>on, but without a Change can never be f<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ed. Chriſt neither will, nor can ſave th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> without changing thee. <hi>Joh.</hi> 3. 3. 5. and <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 5, 6, 7. Thou muſt turn, or dye: Be Chang<g ref="char:EOLhyphen"/>ed, or Damned. <hi>Ezek.</hi> 18. 30, 31. and <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 11. <hi>Acts</hi> 3. 19. 2 <hi>Theſ.</hi> 2. 12. <hi>Joh.</hi> 3. 18, 19.</p>
+            <p>6. Conſider, while thou liveſt, and art <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> an unchanged Chriſtleſs, Gracleſs, State<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be thy natural endowments never ſo excellent<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thy life never ſo innocent, and ſpotleſs; th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> temper, and carriage never ſo ſweet; th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="11" facs="tcp:33662:6" rendition="simple:additions"/> 
+               <gap reason="illegible" resp="#APEX" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>ments, Profeſſion and Practice in Re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>, and place in the Church never ſo E<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>t; be thou a <hi>Titus Veſpatian, (Delitiae <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Generis,</hi> the delight of mankind) in <gap reason="illegible" resp="#APEX" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>e, and civil honeſty; an unconverted <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> in Morality and Legal Piety; a <hi>Judas,</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Diſciple of <hi>Jeſus;</hi> a <hi>Demas,</hi> a <hi>Paul</hi>'s Com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ion, and Fellow Labourer in the profeſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>n, and Propagation of Chriſtianity. <hi>Acts</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>6. 4, 5. <hi>Phil.</hi> 3. 5, 6. <hi>Acts</hi> 1. 16, 17. <hi>Philem.</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>4. with 2 <hi>Tim.</hi> 4. 10. Yea, be thou <hi>Paul</hi>'s <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ppoſed Blazing-Comet in the Chriſtian <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rch; 1 <hi>Cor.</hi> 13. 1, 2, 3. Yet, thou canſt <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>leaſe God in nothing: Neither Perſon, Ser<g ref="char:EOLhyphen"/>vice no<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Sacrifice, can ever be accepted; but all is abomination to him: <hi>Mic.</hi> 6. 67. <hi>Pro.</hi> 15. 8. and ſo thou art cut off from all hope of ever finding Mercy, or Favour with him, <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ving or dying; here, or hereafter. 1 <hi>Cor.</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 14. <hi>Rom.</hi> 8. 8. <hi>Ephe.</hi> 1. 6. <hi>Heb.</hi> 11. 4, 5, 6. and 12. 28, 29. <hi>Phil.</hi> 3, 4, 5, 6, 7, 8, 9, 10, 11.</p>
+            <p>7. Conſider, what a ſad thing it is, not to be able to look upon life or Death with com<g ref="char:EOLhyphen"/>fort: Not to be able to bid life farewell, or Death welcome with comfort. And is not this thy caſe? O ſweet, and joyful thing, to be able to look back upon Life, and ſay, my rejoycing is this, the Teſtimony of my Con<g ref="char:EOLhyphen"/>ſcience, that in Simplicity and Godly Since<g ref="char:EOLhyphen"/>rity, not with Fleſhly Wiſdom, but by the
+<pb n="12" facs="tcp:33662:7"/> Grace of God, I have had my Converſatio<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the World! 2 <hi>Cor.</hi> 1. 12. And to look <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ward upon Death, and ſay, I know, that <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> my Earthly Houſe of this Tabernacle <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> diſſolved, I have a Building of God, an <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not made with Hands, Eternal in the <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> vens! 2 <hi>Cor.</hi> 5. 1. Yea, to look on both, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſay, to me to live is Chriſt, and to dye <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> gain! <hi>Phil.</hi> 1. 21.</p>
+            <p>But doth not thy Conſcience tell thee, th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> this comfort is none of thine? That tho<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> may'ſt read theſe Scriptures backwards? <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> at leaſt leave thee in the Dark; that th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> knoweſt not what will become of thee in a d<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing Hour? Whither thou ſhalt go? whe<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thou ſhalt be when gone hence, and gon<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for ever? what thy Eternity will be when here thou ſhalt be no more? O dear Soul<g ref="char:punc">▪</g> It is a dreadful, a Heart-ſhaking thing, to be grabbling at the Door of Eternity, not know<g ref="char:EOLhyphen"/>ing whether it will open into Heaven or Hell! But how much more, if Conſcience tell thee that the queſtion is out of queſtion, and tho<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> condemned already! Thy Sentence already paſt, that thou ſhalt not ſee life! <hi>Joh.</hi> 3. 18. 3<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. O the Fear, the Dread, the Terrours, the horrours, the Sorrows of Death, to ſuch a poor Heart! O ſad! not to be able to bid Death welcome! But how direful to come ſo unwel<g ref="char:EOLhyphen"/>come! <hi>Iſa.</hi> 33, 14.</p>
+            <pb n="13" facs="tcp:33662:7" rendition="simple:additions"/>
+            <p>8. Conſider, be it comfort or diſcomfort, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thou willing, or unwilling; ready, or un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ly, Chriſtian, or Chriſtleſs; dye thou <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; dye thou ſhalt. Ah Soul! Death will <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; and when it comes, it will neither go <gap reason="illegible" resp="#APEX" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>out thee, nor yet ſtay for thee: Thou <gap reason="illegible" resp="#APEX" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>er canſt, nor ſhalt dye by a Deputy; or <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> reſpited to get ready. Then, go thou <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſt, and preſently too: Go thou ſhalt, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all as thou art. Fit, or unfit; clean, or <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; Cloathed, or Naked; changed, or un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>anged; in Chriſt, or Chriſtleſs; away thou <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>lt: All as thou art, all as thou art. O <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>well a little upon the thoughts of it! <hi>G<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n.</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 19. <hi>Job</hi> 7. 1. and 14. 5. and 16. 22. <hi>Prov.</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 32. Theſe Scriptures (amongſt others) Confirm it: And not by a may-be, but a ſhall<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. Take but one more, <hi>Job</hi> 18. 23, 14. 18.</p>
+            <p>9. Conſider, whether thou mind it, or for<g ref="char:EOLhyphen"/>get it; Sleep, or Watch; look for thy Lord, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ant it with the Rabble; Death will not <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly come, but it may be nearer then thou <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> aware. Dye thou muſt, dye thou ſhalt, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thou wilt ſay ſo too; but thou hopeſt it <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> far off yet: Well, but conſider, Death is <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> more certain, than the time uncertain. Dye thou ſhalt, I, and it may be ſooner than thou thinkeſt of. Death will be upon thee; <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and may not, will not it be 'e<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e thou look for it? Doth not the fatal ſtroak, uſe <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="14" facs="tcp:33662:8"/> a ſurprizing ſtroak? <hi>Job</hi> 21. 13. 23, 24. <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 36. 14. <hi>Mat.</hi> 24. 37, 38, 39. 42. to the <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 1 <hi>Theſ.</hi> 5. 2, 3. <hi>Luke</hi> 12. 17, 18, 19. 40. <hi>Ma<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> 13. 35, 36, 37.</p>
+            <p>10. Conſider, dying Chriſtleſs; dye ri<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> or poor; young or old, ſooner or later, <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>denly or languidly, thou wilt dye dreadf<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ly. Ah poor Heart! thou art he, or <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whoever thou art, that wilt dye at a <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> dreadful rate. The Death of the Body <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> no Trifle, yet what were dying, if the Dea<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of the Body were all? dying is a commo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> word, and commonly lightly ſpoken: <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 'tis no light thing to dye. O Soul! dyin<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> work is Weighty work. <hi>Deut.</hi> 32. 29. The<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> bleſſed dying, and Curſſed dying; <hi>Rev.</hi> 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 13. <hi>Iſa.</hi> 65. 20. Joyful dying, and dreadfu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> dying. <hi>Pro.</hi> 14. 32. There's dying, and do<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ble dying; <hi>Pſal,</hi> 89. 48. <hi>Rev.</hi> 2. 11. and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 6. 14. This ſheweth that there is a differenc<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in dying: And what ever the difference b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> beſure poor Chriſtleſs ones, dye at the wor<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> rate. Dye when thou wilt, or how thou wil<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g> thou ever dyeſt dreadfully. (See <hi>Mem<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to Mori.)</hi>
+            </p>
+            <p n="1">1. Thou wilt dye nocently, dye guilty, dye in thy Sins. Ah poor Soul! No Chriſt, no Pardon, no Converſion, no Remiſſion. <hi>Acts</hi> 5. 31. No cloſe with Chriſt, no Benefit by Chriſt. Therefore thou muſt bear thi<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="15" facs="tcp:33662:8" rendition="simple:additions"/> own Burthen, dye in thy Sins, and canſt thou <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e worſe? Is not that dreadful dying? <hi>Joh.</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 24. <hi>Job</hi> 20. 11.</p>
+            <p n="2">2. Dye violently, dye ſuddenly, and hard<g ref="char:EOLhyphen"/>ly: However any may think, thou ſeemeſt <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o go away like a Lamb; Death will hale and <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rry thee away: It will prey upon, and de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our thee, <hi>Pro.</hi> 14. 32. <hi>Pſal.</hi> 49. 14. <hi>Job</hi> 18. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0. To the end. Ah poor Heart! Thou <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t (like, nay,) ſure to know the Strength <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f Death. Is not that a dreadful dying.</p>
+            <p n="3">3. Dye Cruelly, dye Terribly. There's <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tterneſs, Fear, Horrour, Sorrow, Pain, Sting, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orment, Poyſon, in Death: None but Chriſt can fetch it out, and take it away, therefore it comes with all to Chriſtleſs <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es. The Bitterneſs, Fears, Horrours, Sorrows, Pains, Sting, Torments, Poyſon of Death, are all thine! 1 <hi>Cor.</hi> 15. 56. Who<g ref="char:EOLhyphen"/>ever dye ſweetly, thou wilt dye bitterly: Whoever find Deaths Clemency, thou wilt <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d and feel it's utmoſt cruelty. And is <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot that dreadful dying?</p>
+            <p n="4">4. Dye unready, dye untimely, dye when thou wilt, thou wilt dye unfit, unready. Should'ſt thou live the Age of <hi>Methuſalah,</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a thouſand times told, thou wilt (dye Chriſtleſs) dye unready. <hi>Mat.</hi> 24. 37, 38. <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and 25. 10, 11, 12. Whoever love, and <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for the appearing of Chriſt; thou art
+<pb n="16" facs="tcp:33662:9"/> ſure he will come too ſoon for thee<g ref="char:punc">▪</g> W<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ever are ſo fit, as to ſtretch out their N<gap reason="illegible" resp="#APEX" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> look, and wiſh, deſire, and Pa<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> for Deaths coming to ſet th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Phil.</hi> 1. 20. 23.</note> free and wa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t them home to <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Boſome of <hi>Jeſus:</hi> Thou art <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it will come 'ere thou want it. Whoever <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſure of Heavenly Manſions. 2 <hi>Cor.</hi> 5. 1. T<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> art ſure to be turned out of Doors, 'ere th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> have where to put thy Head; 'ere th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> have any dwelling other than everlaſt <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Burnings. <hi>Iſa.</hi> 33. 14. Whoever be Cloath<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thou art ſure to be found Naked, turned <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to outer darkneſs, <hi>Mat.</hi> 22. 11, 12, 13. W<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ever be (blameleſs) found in peace, 2 <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 3. 14. Thou wilt (faulty) be found in <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ry. <hi>Mat.</hi> 24. 50, 51. Poor Heart! whoe<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> be prepared, <hi>Mat.</hi> 25. 10. Thou art u<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ſtill; unready ſtill, and ſure ſo to dye at <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Verſe 11, 12. And is not that dreadful dyin<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> (ſee unready dying, dreadful dying.)</p>
+            <p n="5">5. Dye Eternally; Dye, firſt and ſeco<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Death; dye for ever, <hi>Rom.</hi> 6. 23. <hi>Rev.</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 6. 14, 15. The ſecond Death, Death E<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nal, is the Extremity, and perpetuity of <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Miſery. The Death of the Body is <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Image, the ſhadow of Death. T<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Death of poor Chriſtleſs ones, is an invi<gap reason="illegible" resp="#APEX" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> Death: An inconceivable Death; no To<gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> can tell it, no Pencil Paint or delin<gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="17" facs="tcp:33662:9"/> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he life what it is. We may ſay, O the Pains, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Pangs, the Sorrows, the Terrours, the <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rours, the Anguiſhes, the Gripings, the <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>wing, the Dolours, the Stings, the <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>s, <hi>(Ardoribus perpetuis)</hi> the everlaſting <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ings of it! But who can ſay what they <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> To lye under the utmoſt Extremity that <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>potent Juſtice, and Fiery Indignation <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> inflict! To lye Eternally ſo! to be thus <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ng for ever! Ever dying at the dreadfuleſt <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> And yet, never, never, never Dead! <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> dye Eternally! (thus, all that dye Chriſt<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> dye,) O dreadful dying! (See the Fu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>al of Chriſtleſs ones.)</p>
+            <p>Conſider, in Chriſt, or Chriſtleſs; <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oathed, or Naked, Weight or wanting; <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Judgement thou ſhalt go. There is no e<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ing, or evading it: No appearing by an <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ney, nor being reprieved till bet<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> prepared. O Soul! 'Tis not, thou <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ſt go, but thou muſt go: 'Tis not, <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſ thou wilt, but thou ſhalt. In vain <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to cry to Rock or Mountain, to hide <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> cover thee; Rocks will rent, Mountains <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Hills flee away Alas! Whither wilt thou <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> what wilt thou do? If thou wouldeſt <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>d into Heaven, he is there from whom <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> wouldeſt flee: If thou make thy Bed in <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> behold, he is there alſo: If thou couldſt <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e the Wings of the Morning, and dwell
+<pb n="18" facs="tcp:33662:10"/> in the utmoſt parts of the Sea, there <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his hand reach thee too: if thou ſet <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Neſt among the Stars, thence will he <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thee down: And if thou ſay, ſurely the da<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>neſs (at leaſt) ſhall cover me, Lo, the d<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>neſs hideth not from him with whom <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> haſt to do: but the Night ſhineth as the d<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the darkneſs and the light are both <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to him. Sea, Death, and Hell, muſt, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhall deliver up their Dead to him, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whoſe Face the Earth and the Heavens <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> away. Fit, or unfit; Weight, or want<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> to Judgement thou ſhalt go: at the <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and dreadful Tribunal thou ſhalt app<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <hi>Eccle.</hi> 12. 14. <hi>Acts.</hi> 17. 31. <hi>Rom.</hi> 2. 6. 12. <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 2 <hi>Cor.</hi> 5. 10. <hi>Rev.</hi> 20. 11, 12, 13.</p>
+            <p>12. Conſider, Speak, or ſpeechleſs; Co<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>dent or confounded; (without a Chri<gap reason="illegible" resp="#APEX" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> Judgement thou wilt be condemned) W<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ever ſtand, thou art ſure to fall; whoever <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> acquitted, thou art ſure to be caſt; whoever <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> abſolved, thou art ſure to be condemn<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Plal.</hi> 1. 5. The ungodly ſhall not ſtand in <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Judgement. <hi>John</hi> 3. 18. But he that believe<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> not is condemned already; and can'ſt th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hope to be cleared then? No, poor Hear<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Whoever be juſtified, thou art ſure to <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> doomed: <hi>Mat.</hi> 22. 12. 13. Whoever hav<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Come thou Bleſſed, thou art ſure of a Go th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Curſed. <hi>Mat.</hi> 25. 34. 41. What droop<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="19" facs="tcp:33662:10" rendition="simple:additions"/> 
+               <gap reason="illegible" resp="#APEX" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>t ſoever be raiſed, cheared, with a thou <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> mine, thine is ſure to be ſunk, and cool<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> with an I know thee not: <hi>Mat.</hi> 25. 11. <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. <hi>Luke</hi> 13, 25, 26, 27. What poor Trem<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ng, fainting Heart ſoever be revived, and <gap reason="illegible" resp="#APEX" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>oyced with a Sentence of Eternal Salvati<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>; thine (Poor Soul) is ſure to be ſtruck <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and dead, with a Doom to Everlaſting <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſtruction from the preſence of the Lord, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from the Glory of his Power, 2 <hi>Theſ.</hi> 1. 8. <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> And conſider further, tolerable, or into<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>able, Damnation is Eternal. 'Tis Ever<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing Deſtruction, 2 <hi>Theſ.</hi> 1. 9. Everlaſting <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>iſhment, <hi>Mat.</hi> 25. 46. Everlaſting Fire, <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rſe 41. Everlaſting Burnings, <hi>Iſa.</hi> 33. 14. <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Gnawing Worm is immortal, and the <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ormenting Fire is unquenchable, <hi>Mark</hi> 9. 44.</p>
+            <p>13. Conſider, if thou periſh Eternally, thy <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ood will be upon thine own Head. Thou <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>lt have none to charge with the loſs of a <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>l more precious then a World, but only <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſelf. And what a Hell of Hells will that <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>? <hi>Ezek.</hi> 33. 11. <hi>Mat.</hi> 23. 37. <hi>Luke.</hi> 19. 41, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. <hi>John</hi> 4. 40.</p>
+            <p>14. Conſider, how thou wilt anſwer the <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>fuſal and rejection of a tendered Tender <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>viour. If thou Periſh, thou wilt have not <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly thy own life to anſwer for, but alſo the <gap reason="illegible" resp="#APEX" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>tempt and rejection of an Offered Saviour, <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d Salvation, to anſwer for: And how dread<g ref="char:EOLhyphen"/>ful
+<pb n="20" facs="tcp:33662:11"/> will theſe things be? <hi>John</hi> 3. 16. 18, 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Heb.</hi> 2, 3. (See, Excitation to Soul-Concer<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing)</p>
+            <p>15. Conſider, Seeing they that are no choice Saints, were once in thy conditio<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> why may'ſt not thou (being yet alive) <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> into their condition? O Poor Soul! W<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> doeſt thou do? is not thy caſe moſt wo<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and Deplorable? Is it to be reſted in one M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ment? Why lyeſt thou ſtill, in the Lake <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Sodom?</hi> In the mire of Sin? In the Gul<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of Miſery? and at the Mouth of Hell? <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> way! away eſcape for thy life! the life <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thy Soul eſcape for eternity, or thou art <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for Eternity! O! to Chriſt! to Chriſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Flee to Chriſt! See'ſt thou not how ma<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that were once in thy caſe are now eſcap<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and gone? Got into Chriſt? Got into a St<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of Grace? got aloft? Got out of danger<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Tit.</hi> 3. 3. 1 <hi>Cor.</hi> 6. 11. <hi>Ephe.</hi> 2. 1, 2, 3, 4, 5, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Rom.</hi> 8. 1. Alas, Poor Heart! Wilt thou ly<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and ſtarve, and dye in thy Sin, and Periſh <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ever: When thou mighteſt be happy for <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ver? O! who hath bewitched thee! Retu<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> return, Poor Prodigal! Wilt thou not awa<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> when others are gone? How ſafe are they How well have they ſped? <hi>Luke</hi> 15. 20 <hi>&amp;<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Where are they got? How happy is the<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> State? <hi>Col.</hi> 1. 12, 13, 14. Wilt thou not g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> when Heaven and Earth call thee? <hi>Iſa.</hi> 5<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="21" facs="tcp:33662:11" rendition="simple:additions"/> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 2, 3. <hi>Rev.</hi> 22. 17. And when Creator, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reatures, Heaven and Earth, would Rejoyce <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er thee? <hi>Luke</hi> 15. 7. 10. 23, 24. 32. <hi>Zeph.</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 17. Wilt thou not away, when God, and <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſus Chriſt Beſeech, woo, intrea<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and Pray <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ee? 2 <hi>Cor.</hi> 5. 20. Wilt thou not Rowſe up, <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lt thou not beſtir thee, in thy-day? <hi>Luke</hi> 9. 42. In a Good-day? 2 <hi>Cor.</hi> 6. 2. In the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay? The Day when the Door of Mercy is <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et open? When the Gate of Heaven ſtands <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pen? <hi>Mat.</hi> 11. 28. and 23. 37. and 22. 2, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, 4. <hi>Prov.</hi> 9. 1, 2, 3, 4, 5, 6. 2 <hi>Cor.</hi> 6. 2. <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſal.</hi> 24. 7, 8, 9, 10. The only-day? The <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay that has no Morrow? <hi>Heb.</hi> 3. 7. 8, 9, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0, 11. The Ending-Day? The Cloſing-Day, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen the Door is even ſhutting, when the Table is withdrawing, when the Market is <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nding? O, Start now! Put in for one now! <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tep in now! Now, or never! <hi>Heb.</hi> 4. 1. 7. <hi>JOhn</hi> 7. 33, 34. 37. and 12. 35, 36. <hi>Mat.</hi> 25. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0, 11, 12.</p>
+            <p>Once more, poor Soul! How many are there now in Heaven, that were once in thy condition? How many that were once in thy caſe, are now in Glory: Singing, as in <hi>Rev.</hi> 5. 9. 10. and 7. 9, 10. and 14. 3. and 15. 3? Now in his preſence where is fulneſs of Joyes? Now, Swimming in Pleaſures at the Lords right Hand for evermore? O! why may'ſt not thoueſcape as well as they? Why
+<pb n="22" facs="tcp:33662:12"/> may'ſt not thou be changed as well as they? Find M<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> as well as they? and be one day as happy as they; if <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſlip not thy preſent Seaſon; if thou loſe not thy <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſent opportunity? Delay not then one Moment lo<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> But up, and away! Put on, for a State of Grace! <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> out for Salvation and Glory! be not content to P<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> for ever; To be a Child of Perdition; To be loſt <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Eternity! O never be content to go Chriſtleſs! and G<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>leſs! and Graceleſs! and Glorileſs, for ever! <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> lye and Periſh, and loſe happineſs for ever, wh<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thers are got into a bleſſed State! and when tho<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſure to be welcome as well as they, if thou do but <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>John</hi> 6. 37. (See the Prodigals welcome.)</p>
+            <p>16. Conſider, now to cloſe up all the former <gap reason="illegible" resp="#APEX" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>derations, and all that I ſhall now ſay to Chriſtleſs <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I ſay conſider; what Chriſt, Grace, and Salvation, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be worth one day. Is an Offered Jeſus worth noth<gap reason="illegible" resp="#APEX" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> But what will a Loſt Jeſus be worth? <hi>John</hi> 7. 33, 34, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 8. 21. Is a ſaving change worth nothing now? But, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> will it be worth when thou art fallen under that Do<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <hi>Rev.</hi> 22, 11? He that is unjuſt let him be unjuſt <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and he which is filthy, let him be filthy ſtill. <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the things of thine everlaſting Peace worth<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thing while tendered to thee? But, what will they <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> worth when they are for ever gone? <hi>Luke</hi> 19. 42. Offered-Salvation worth nothing? But Soul! W<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> will loſt Salvation be worth? Ponder <hi>Acts</hi> 13. 46. <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 2. 2, and 3. 11. Well Soul! 'Ere it be too late; <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> down, and ſeriouſly conſider theſe things. Lay th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> upon thy Heart. And whatever thy thoughts of th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> things are now, think what thoughts thou ſhalt h<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of them one day.</p>
+            <p>What will Chriſt, and Grace, and Glory, be wor<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> one Day? Are they of no value now? But O! Wh<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> will they be worth when all loſt? Are they worth <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thing now they come a<g ref="char:punc">▪</g> Begging? But, what will th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be worth when thou goeſt a-Begging? <hi>Prov.</hi> 1. 24, 2<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="23" facs="tcp:33662:12" rendition="simple:additions"/> 
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>7, 28, 29. <hi>Mat.</hi> 25. 11, 12. <hi>Luke</hi> 25, 26, 27. Canſt <gap reason="illegible" resp="#APEX" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> content to go without them now? Can'ſt ſpaer <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> now? Can'ſt make light of them now? But, can'ſt <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for ever? Can'ſt thou be content to go without <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all for ever? Wilt thou have the ſame thoughts <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them, in a dying Hour? In a Dooming Day? and <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Eternity hath ſwallowed thee up? <hi>Numb.</hi> 23. 10. <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 6. 15, 16, 17. <hi>Mat.</hi> 25. 41. 46. Well Soul! what<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> value thou haſt of them now, what will Oyl in thy <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and a Wedding-Garment on thy Back, be worth <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Day? Worth, when not to be had? What will Oyl <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> worth having for taking now) be worth when <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> King comes in to ſee the Gueſts? <hi>Mat.</hi> 22. 11, 12, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> And, yet once more, whatever account thou make of <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; ſit down, and conſider; what Chriſt, Grace, a <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>edding Garment, Oyl, Subſtance, Solidity, Weight, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Life of Grace, the Power of Godlineſs, Sincerity, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Holineſs, and perfect Holineſs will be worth one <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>! Worth, when for ever loſt! When never more to <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> had! When for ever hid from thine Eyes! <hi>Luke</hi> 19. <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. And truly Soul! It will not be long firſt. It will not <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>g that they will be Offered: T'will not be long <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thou wilt be intreated: that thou wilt be waited on, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thou wilt be tryed further; it may be, not once <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <hi>John</hi> 8. 21. <hi>Luke</hi> 19. 42. and 14. 24. It will not be <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> (if any longer then this once) that they will be <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for receiving, for imbracing; no, nor yet be had <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Prayers, Cryes, Tears, Knocking, Begging, Pleading, <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>poſtulating, and all that ever thou can'ſt ſay, or do; <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, tho thou ſweat, Bleed, break thy Heart, Dye, and <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>iſh to all Eternity, <hi>Mat.</hi> 25. 11, 12. <hi>Luke</hi> 13. 24, 25, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, 27. (See Soul-Seaſons, Critical-Seaſons, and Soul-<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſons, oft ſhort-Seaſons.)</p>
+            <p>And now, poor Chriſtleſs, Graceleſs, Unchanged-<gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>! What wilt thou do? Wilt thou without delay <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Moment more, one Minute more, Beſtir thee <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for Chriſt? For a change? and to get into a State of Grace
+<pb n="24" facs="tcp:33662:13"/> before it be too late? What wilt thou do? What <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have all theſe things upon thee? Are they all <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Do none of theſe things move thee? ſhall all <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> nothing? Can'ſt Read, and Hear, and Bear, and <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all? The Lord pluck thee as a Brand out of the <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Well poor Soul! Whatever thou do; how m<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> there that have Embraced Chriſt? That are <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Chriſt? and into an Holy and Happy State? Ye<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> many ſhalt thou one Day ſee come from the No<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from the South, and ſit down with <hi>Abraham, Iſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Jacob,</hi> and all the prophets in the Kingdom of <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> And wilt thou be none of them? Wilt thou <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> thruſt out? O How dreadful will tha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> then be! <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> bear all now, and never ſtir? O, but Poor Heart! <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> wilt thou break that then? Can thine Heart endure<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thy H<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nds be ſtrong then? <hi>Luke</hi> 13. 28, 29, 30. <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thus I leave theſe few things with thee; together <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that Scripture, <hi>Prov.</hi> 9. 12. If thou be wiſe, thou <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be wiſe for thy ſelf, But if thou ſcorneſt, thou <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhalt bear it. But I would eſpecially leave it in the Lo<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Hand for thy good.</p>
+            <p>And now O mighty God of <hi>Jacob!</hi> The Lord <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Omnipotent! make theſe (and my other) poor <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a word of Life and Power to every poor Chriſtleſs <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that ſhall Read or Hear them. Yea of ſome uſe both <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> changed, and unchanged; Chriſtleſs, and Chriſtia<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> That the one may yet obtain Chriſt and <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and the other be Quickened to make their State <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and to make ſound and through Work of Chriſtia<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Even ſo O Lord! For precious Souls ſakes; Yea, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Glory ſake! and for thy Chriſt his ſake! Amen Ame<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Alſo, Read Mr.</hi> Alleines <hi>Alarm to the unconverted. And <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Funeral of Chriſtleſs ones. Soul-Alarms.</hi> Iſſacha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <hi>Wiſdo<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Soul-Seaſons, Critical-Seaſons. And the da<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ger of hereaf<g ref="char:EOLhyphen"/>ters in Soul-matters.</hi>
+            </p>
+            <p>
+               <hi>Brethren, my Hearts, deſire and prayer to God for</hi> Iſrael <hi>is, that they might be ſaved.</hi> Rom. 10. 1.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
